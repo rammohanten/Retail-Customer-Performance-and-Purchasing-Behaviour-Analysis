@@ -25,15 +25,18 @@ Management wanted to better understand:
 - How seasonal and geographic trends impact sales
 
 # Business Question:
-# "How can the company leverage customer shopping data to identify
-# trends, improve customer engagement, and optimize marketing and
-# product strategies?"
+ How can the company leverage customer shopping data to identify
+ trends, improve customer engagement, and optimize marketing and
+ product strategies?
 
 #  Dataset Overview
+The dataset represents 3,900 customer transactions collected from an online retail platform.
+Key Data Categories:
+•	Customer Demographics Age, gender, location, subscription status
+•	Purchase Information Product purchased, category, purchase amount, season, colour, size.
+•	Behavioural Indicators Discount usage, purchase frequency, previous purchases, review ratings, shipping type
+This data provides a holistic view of who the customers are, what they buy, and how they shop.
 
- - Total Records: 3,900 customer transactions
- - Data Type: Customer-level transactional retail data
-#
 # Key Data Attributes:
  - Customer Demographics: Age, Gender, Location, Subscription Status
  - Purchase Details: Product, Category, Purchase Amount, Season
@@ -74,6 +77,7 @@ Management wanted to better understand:
 
  An interactive Power BI dashboard was developed to present
  insights clearly and intuitively.
+ <img width="1051" height="636" alt="customer trend analysis dashboard" src="https://github.com/user-attachments/assets/a2b7819d-fd06-4ea6-bfe0-2f7ad298fd2e" />
 
 # Dashboard Highlights:
  - Key KPIs (Average Purchase Value, Total Orders, Average Rating)
@@ -85,6 +89,13 @@ Management wanted to better understand:
 
  The dashboard enables non-technical stakeholders to explore
  insights dynamically.
+ 
+#  Tools & Technologies Used
+
+ - Python        : Data cleaning and preparation
+ - SQL           : Business analysis and segmentation
+ - Power BI      : Interactive dashboard and visualization
+ - Git & GitHub  : Version control and project collaboration
 
 #  Key Insights
 
@@ -100,7 +111,7 @@ Management wanted to better understand:
 
 
 
-# 💡 Business Recommendations
+#  Business Recommendations
 
  - Increase subscription adoption with exclusive benefits
  - Strengthen customer loyalty and retention programs
@@ -109,20 +120,6 @@ Management wanted to better understand:
  - Align campaigns with seasonal demand trends
  - Improve customer experience to boost review ratings
 
-#
-#  Tools & Technologies Used
-
-# - Python        : Data cleaning and preparation
-# - SQL           : Business analysis and segmentation
-# - Power BI      : Interactive dashboard and visualization
-# - Git & GitHub  : Version control and project collaboration
-#
-#
-# Power BI Dashboard Preview
-<img width="1051" height="636" alt="customer trend analysis dashboard" src="https://github.com/user-attachments/assets/a2b7819d-fd06-4ea6-bfe0-2f7ad298fd2e" />
-
-
-#
 #  Project Outcome
 
  This project demonstrates how customer shopping data can be
