@@ -127,4 +127,4 @@ This data provides a holistic view of who the customers are, what they buy, and 
  inventory planning, and data-driven decision-making.
 
 
- # I have attached a document named "Customer Trend Analysis", that explains the entire project step by step.
+ I have attached a document named "Customer Trend Analysis", that explains the entire project step by step.
