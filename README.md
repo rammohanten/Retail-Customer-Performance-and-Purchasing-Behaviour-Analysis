@@ -125,3 +125,6 @@ This data provides a holistic view of who the customers are, what they buy, and 
  transformed into actionable business insights to support
  smarter marketing, improved customer retention, optimized
  inventory planning, and data-driven decision-making.
+
+
+ # I have attached a document named "Customer Trend Analysis", that explains the entire project step by step.
