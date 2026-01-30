@@ -1,5 +1,6 @@
-# Customer_Shopping_trend_analysis
+# Customer_Shopping_behaviour_analysis
 Power BI dashboard analyzing customer shopping metrics to identify the trends
+
 #  Project Overview
  
 This project analyzes customer shopping behavior for a retail
@@ -108,8 +109,6 @@ This data provides a holistic view of who the customers are, what they buy, and 
  - Sales peak during Spring and Fall seasons
  - A small group of loyal customers contributes a large share
    of total revenue
-
-
 
 #  Business Recommendations
 
